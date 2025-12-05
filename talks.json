@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The Future of JavaScript Frameworks",
+    "speakers": ["Jane Doe"],
+    "category": ["JavaScript", "Web Development", "Future"],
+    "description": "A deep dive into the trends and future of JavaScript frameworks, including React, Vue, and Svelte."
+  },
+  {
+    "title": "Building Scalable APIs with GraphQL",
+    "speakers": ["John Smith"],
+    "category": ["API", "GraphQL", "Backend"],
+    "description": "Learn how to design and build scalable and efficient APIs using GraphQL."
+  },
+  {
+    "title": "AI-Powered User Experiences",
+    "speakers": ["Alice Johnson", "Bob Williams"],
+    "category": ["AI", "UX", "Machine Learning"],
+    "description": "Discover how to leverage AI and Machine Learning to create personalized and intelligent user experiences."
+  },
+  {
+    "title": "The Rise of Serverless Computing",
+    "speakers": ["Charlie Brown"],
+    "category": ["Serverless", "Cloud", "Architecture"],
+    "description": "An introduction to serverless computing, its benefits, and how to get started with building serverless applications."
+  },
+  {
+    "title": "Cybersecurity in a Connected World",
+    "speakers": ["Diana Prince"],
+    "category": ["Cybersecurity", "IoT", "Security"],
+    "description": "Explore the security challenges of IoT and learn how to secure your connected devices."
+  },
+  {
+    "title": "WebAssembly: The Next Frontier",
+    "speakers": ["Bruce Wayne"],
+    "category": ["WebAssembly", "Performance", "Web Development"],
+    "description": "An overview of WebAssembly, its use cases, and how it's changing the landscape of web development."
+  }
+]
